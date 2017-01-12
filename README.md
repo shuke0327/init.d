@@ -71,3 +71,6 @@ sudo service elasticsearch status
 curl -sSL https://git.io/vPypp | bash
 sudo docker info
 ```
+## Install pg
+sudo apt-get update
+sudo apt-get install postgresql postgresql-contrib libpq-dev
